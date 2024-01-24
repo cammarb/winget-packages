@@ -12,7 +12,7 @@ This repository contains a curated list of software and packages that I use in m
 
 Run the following command to import and install all the listed software:
 
-```pwsh
+```bash
 winget import winget-packages.json
 ```
 
