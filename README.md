@@ -40,10 +40,6 @@ winget import winget-packages.json
   - Description: Python programming language interpreter.
   - Package ID: `Python.Python.3.12`
 
-- **Rustup**
-  - Description: Rust programming language toolchain installer.
-  - Package ID: `Rustlang.Rustup`
-
 - **Visual Studio Code**
   - Description: A lightweight and powerful code editor.
   - Package ID: `Microsoft.VisualStudioCode`
@@ -56,10 +52,6 @@ winget import winget-packages.json
   - Description: Containerization platform.
   - Package ID: `Docker.DockerDesktop`
 
-- **PostgreSQL pgAdmin**
-  - Description: PostgreSQL database management tool.
-  - Package ID: `PostgreSQL.pgAdmin`
-
 ### Communication
 
 - **Discord**
@@ -71,6 +63,9 @@ winget import winget-packages.json
 - **Google Chrome**
   - Description: Web browser developed by Google.
   - Package ID: `Google.Chrome`
+- **Firefox Developer Edition**
+  - Description: Developer edition of Firefox web browser developed by Mozilla.
+  - Package ID: `Mozilla.Firefox.DeveloperEdition`
 
 ### Multimedia
 
@@ -87,9 +82,3 @@ winget import winget-packages.json
 - **Epic Games Launcher**
   - Description: Digital distribution platform for video games.
   - Package ID: `EpicGames.EpicGamesLauncher`
-
-### System Utilities
-
-- **Intel Driver and Support Assistant**
-  - Description: Automatically updates your drivers and software.
-  - Package ID: `Intel.IntelDriverAndSupportAssistant`
