@@ -63,6 +63,7 @@ winget import winget-packages.json
 - **Google Chrome**
   - Description: Web browser developed by Google.
   - Package ID: `Google.Chrome`
+ 
 - **Firefox Developer Edition**
   - Description: Developer edition of Firefox web browser developed by Mozilla.
   - Package ID: `Mozilla.Firefox.DeveloperEdition`
